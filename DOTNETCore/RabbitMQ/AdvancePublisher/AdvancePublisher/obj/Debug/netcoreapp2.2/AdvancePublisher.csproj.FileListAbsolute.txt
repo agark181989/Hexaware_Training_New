@@ -1,0 +1,11 @@
+D:\DOTNETCore\RabbitMQ\AdvancePublisher\AdvancePublisher\bin\Debug\netcoreapp2.2\AdvancePublisher.deps.json
+D:\DOTNETCore\RabbitMQ\AdvancePublisher\AdvancePublisher\bin\Debug\netcoreapp2.2\AdvancePublisher.runtimeconfig.json
+D:\DOTNETCore\RabbitMQ\AdvancePublisher\AdvancePublisher\bin\Debug\netcoreapp2.2\AdvancePublisher.runtimeconfig.dev.json
+D:\DOTNETCore\RabbitMQ\AdvancePublisher\AdvancePublisher\bin\Debug\netcoreapp2.2\AdvancePublisher.dll
+D:\DOTNETCore\RabbitMQ\AdvancePublisher\AdvancePublisher\obj\Debug\netcoreapp2.2\AdvancePublisher.csprojAssemblyReference.cache
+D:\DOTNETCore\RabbitMQ\AdvancePublisher\AdvancePublisher\obj\Debug\netcoreapp2.2\AdvancePublisher.csproj.CoreCompileInputs.cache
+D:\DOTNETCore\RabbitMQ\AdvancePublisher\AdvancePublisher\obj\Debug\netcoreapp2.2\AdvancePublisher.AssemblyInfoInputs.cache
+D:\DOTNETCore\RabbitMQ\AdvancePublisher\AdvancePublisher\obj\Debug\netcoreapp2.2\AdvancePublisher.AssemblyInfo.cs
+D:\DOTNETCore\RabbitMQ\AdvancePublisher\AdvancePublisher\bin\Debug\netcoreapp2.2\AdvancePublisher.pdb
+D:\DOTNETCore\RabbitMQ\AdvancePublisher\AdvancePublisher\obj\Debug\netcoreapp2.2\AdvancePublisher.dll
+D:\DOTNETCore\RabbitMQ\AdvancePublisher\AdvancePublisher\obj\Debug\netcoreapp2.2\AdvancePublisher.pdb

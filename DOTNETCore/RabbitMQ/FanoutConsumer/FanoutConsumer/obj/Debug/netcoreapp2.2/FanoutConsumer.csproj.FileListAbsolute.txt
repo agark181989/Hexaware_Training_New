@@ -1,0 +1,11 @@
+D:\DOTNETCore\RabbitMQ\FanoutConsumer\FanoutConsumer\bin\Debug\netcoreapp2.2\FanoutConsumer.deps.json
+D:\DOTNETCore\RabbitMQ\FanoutConsumer\FanoutConsumer\bin\Debug\netcoreapp2.2\FanoutConsumer.runtimeconfig.json
+D:\DOTNETCore\RabbitMQ\FanoutConsumer\FanoutConsumer\bin\Debug\netcoreapp2.2\FanoutConsumer.runtimeconfig.dev.json
+D:\DOTNETCore\RabbitMQ\FanoutConsumer\FanoutConsumer\bin\Debug\netcoreapp2.2\FanoutConsumer.dll
+D:\DOTNETCore\RabbitMQ\FanoutConsumer\FanoutConsumer\obj\Debug\netcoreapp2.2\FanoutConsumer.csprojAssemblyReference.cache
+D:\DOTNETCore\RabbitMQ\FanoutConsumer\FanoutConsumer\obj\Debug\netcoreapp2.2\FanoutConsumer.csproj.CoreCompileInputs.cache
+D:\DOTNETCore\RabbitMQ\FanoutConsumer\FanoutConsumer\obj\Debug\netcoreapp2.2\FanoutConsumer.AssemblyInfoInputs.cache
+D:\DOTNETCore\RabbitMQ\FanoutConsumer\FanoutConsumer\obj\Debug\netcoreapp2.2\FanoutConsumer.AssemblyInfo.cs
+D:\DOTNETCore\RabbitMQ\FanoutConsumer\FanoutConsumer\bin\Debug\netcoreapp2.2\FanoutConsumer.pdb
+D:\DOTNETCore\RabbitMQ\FanoutConsumer\FanoutConsumer\obj\Debug\netcoreapp2.2\FanoutConsumer.dll
+D:\DOTNETCore\RabbitMQ\FanoutConsumer\FanoutConsumer\obj\Debug\netcoreapp2.2\FanoutConsumer.pdb

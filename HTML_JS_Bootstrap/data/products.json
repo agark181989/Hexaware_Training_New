@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "name": "Mi 7",
+        "price": 19999,
+        "quantity": 10,
+        "category": "Mobile",
+        "imageUrl": "/assets/xiaomi-mi7.webp",
+        "desciption":"Smart phone from Xiamoi"         
+    },
+    {
+        "id":2,
+        "name": "Galaxy A7",
+        "price": 22499,
+        "quantity": 50,
+        "category": "Mobile",
+        "imageUrl": "/assets/galaxy_a7.webp",
+        "desciption":"Smart phone from Samsung"         
+    },
+    {
+        "id":3,
+        "name": "Galaxy A7",
+        "price": 22499,
+        "quantity": 50,
+        "category": "Mobile",
+        "imageUrl": "/assets/galaxy_a7.webp",
+        "desciption":"Smart phone from Samsung"         
+    }
+]

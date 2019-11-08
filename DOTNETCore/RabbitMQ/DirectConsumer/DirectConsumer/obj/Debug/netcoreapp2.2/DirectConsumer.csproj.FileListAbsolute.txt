@@ -1,0 +1,10 @@
+C:\Users\huser\source\repos\DirectConsumer\DirectConsumer\bin\Debug\netcoreapp2.2\DirectConsumer.deps.json
+C:\Users\huser\source\repos\DirectConsumer\DirectConsumer\bin\Debug\netcoreapp2.2\DirectConsumer.runtimeconfig.json
+C:\Users\huser\source\repos\DirectConsumer\DirectConsumer\bin\Debug\netcoreapp2.2\DirectConsumer.runtimeconfig.dev.json
+C:\Users\huser\source\repos\DirectConsumer\DirectConsumer\bin\Debug\netcoreapp2.2\DirectConsumer.dll
+C:\Users\huser\source\repos\DirectConsumer\DirectConsumer\obj\Debug\netcoreapp2.2\DirectConsumer.csproj.CoreCompileInputs.cache
+C:\Users\huser\source\repos\DirectConsumer\DirectConsumer\obj\Debug\netcoreapp2.2\DirectConsumer.AssemblyInfoInputs.cache
+C:\Users\huser\source\repos\DirectConsumer\DirectConsumer\obj\Debug\netcoreapp2.2\DirectConsumer.AssemblyInfo.cs
+C:\Users\huser\source\repos\DirectConsumer\DirectConsumer\bin\Debug\netcoreapp2.2\DirectConsumer.pdb
+C:\Users\huser\source\repos\DirectConsumer\DirectConsumer\obj\Debug\netcoreapp2.2\DirectConsumer.dll
+C:\Users\huser\source\repos\DirectConsumer\DirectConsumer\obj\Debug\netcoreapp2.2\DirectConsumer.pdb

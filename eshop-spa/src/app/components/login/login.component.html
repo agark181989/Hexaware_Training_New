@@ -1,0 +1,23 @@
+<div class="row">
+    <div class="col-md-6 col-lg-4 mx-auto">
+        <h2>Login</h2>
+        <form [formGroup]="loginForm" (submit)="login()">            
+            <div class="form-group">
+                <label for="username">User Name</label>
+                <input type="text" name="username" formControlName="username" class="form-control"/>
+                <div *ngIf="Username.invalid && Username.touched">
+                    <div class="text-danger" *ngIf="Username.errors && Username.errors.required">User Name cannot be empty</div>                                              
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" name="password" formControlName="password" class="form-control"/>
+                <div *ngIf="Password.invalid && Password.touched">
+                    <div class="text-danger" *ngIf="Password.errors && Password.errors.required">Password cannot be empty</div>                                              
+                    <div class="text-danger" *ngIf="Password.errors && Password.errors.minlength">Minimum 8 char require</div>                                              
+                </div>
+            </div>            
+            <button type="submit" [disabled]="loginForm.invalid" class="btn btn-primary">Login</button>
+        </form>
+    </div>
+</div>>

@@ -1,0 +1,6 @@
+D:\DOTNETCore\EShopWebMvc\EShopWebMvc\obj\Debug\netcoreapp2.1\EShopWebMvc.csprojAssemblyReference.cache
+D:\DOTNETCore\EShopWebMvc\EShopWebMvc\obj\Debug\netcoreapp2.1\EShopWebMvc.csproj.CoreCompileInputs.cache
+D:\DOTNETCore\EShopWebMvc\EShopWebMvc\obj\Debug\netcoreapp2.1\EShopWebMvc.RazorAssemblyInfo.cache
+D:\DOTNETCore\EShopWebMvc\EShopWebMvc\obj\Debug\netcoreapp2.1\EShopWebMvc.RazorAssemblyInfo.cs
+D:\DOTNETCore\EShopWebMvc\EShopWebMvc\obj\Debug\netcoreapp2.1\EShopWebMvc.AssemblyInfoInputs.cache
+D:\DOTNETCore\EShopWebMvc\EShopWebMvc\obj\Debug\netcoreapp2.1\EShopWebMvc.AssemblyInfo.cs

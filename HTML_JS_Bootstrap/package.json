@@ -1,0 +1,20 @@
+{
+  "name": "mybasicapp",
+  "version": "1.0.0",
+  "description": "Bootstrap and HTML 5 demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML5",
+    "Bootstrap",
+    "SampleApp"
+  ],
+  "author": "Rohit Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}

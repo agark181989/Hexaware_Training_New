@@ -1,0 +1,14 @@
+D:\DOTNETCore\SampleCoreApp\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+D:\DOTNETCore\SampleCoreApp\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+D:\DOTNETCore\SampleCoreApp\bin\Debug\netcoreapp2.2\win10-x64\SampleCoreApp.exe
+D:\DOTNETCore\SampleCoreApp\bin\Debug\netcoreapp2.2\win10-x64\SampleCoreApp.deps.json
+D:\DOTNETCore\SampleCoreApp\bin\Debug\netcoreapp2.2\win10-x64\SampleCoreApp.runtimeconfig.json
+D:\DOTNETCore\SampleCoreApp\bin\Debug\netcoreapp2.2\win10-x64\SampleCoreApp.runtimeconfig.dev.json
+D:\DOTNETCore\SampleCoreApp\bin\Debug\netcoreapp2.2\win10-x64\SampleCoreApp.dll
+D:\DOTNETCore\SampleCoreApp\bin\Debug\netcoreapp2.2\win10-x64\SampleCoreApp.pdb
+D:\DOTNETCore\SampleCoreApp\obj\Debug\netcoreapp2.2\win10-x64\SampleCoreApp.csprojAssemblyReference.cache
+D:\DOTNETCore\SampleCoreApp\obj\Debug\netcoreapp2.2\win10-x64\SampleCoreApp.csproj.CoreCompileInputs.cache
+D:\DOTNETCore\SampleCoreApp\obj\Debug\netcoreapp2.2\win10-x64\SampleCoreApp.AssemblyInfoInputs.cache
+D:\DOTNETCore\SampleCoreApp\obj\Debug\netcoreapp2.2\win10-x64\SampleCoreApp.AssemblyInfo.cs
+D:\DOTNETCore\SampleCoreApp\obj\Debug\netcoreapp2.2\win10-x64\SampleCoreApp.dll
+D:\DOTNETCore\SampleCoreApp\obj\Debug\netcoreapp2.2\win10-x64\SampleCoreApp.pdb

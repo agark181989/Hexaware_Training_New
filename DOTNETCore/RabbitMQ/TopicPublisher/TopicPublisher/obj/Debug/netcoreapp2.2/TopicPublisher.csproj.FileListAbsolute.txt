@@ -1,0 +1,11 @@
+D:\DOTNETCore\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.deps.json
+D:\DOTNETCore\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.runtimeconfig.json
+D:\DOTNETCore\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.runtimeconfig.dev.json
+D:\DOTNETCore\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.dll
+D:\DOTNETCore\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.csproj.CoreCompileInputs.cache
+D:\DOTNETCore\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.AssemblyInfoInputs.cache
+D:\DOTNETCore\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.AssemblyInfo.cs
+D:\DOTNETCore\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.pdb
+D:\DOTNETCore\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.csprojAssemblyReference.cache
+D:\DOTNETCore\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.dll
+D:\DOTNETCore\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.pdb

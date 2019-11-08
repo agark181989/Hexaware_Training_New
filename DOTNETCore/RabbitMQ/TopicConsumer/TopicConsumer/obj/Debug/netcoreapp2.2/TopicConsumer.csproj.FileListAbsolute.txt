@@ -1,0 +1,11 @@
+D:\DOTNETCore\RabbitMQ\TopicConsumer\TopicConsumer\bin\Debug\netcoreapp2.2\TopicConsumer.deps.json
+D:\DOTNETCore\RabbitMQ\TopicConsumer\TopicConsumer\bin\Debug\netcoreapp2.2\TopicConsumer.runtimeconfig.json
+D:\DOTNETCore\RabbitMQ\TopicConsumer\TopicConsumer\bin\Debug\netcoreapp2.2\TopicConsumer.runtimeconfig.dev.json
+D:\DOTNETCore\RabbitMQ\TopicConsumer\TopicConsumer\bin\Debug\netcoreapp2.2\TopicConsumer.dll
+D:\DOTNETCore\RabbitMQ\TopicConsumer\TopicConsumer\obj\Debug\netcoreapp2.2\TopicConsumer.csproj.CoreCompileInputs.cache
+D:\DOTNETCore\RabbitMQ\TopicConsumer\TopicConsumer\obj\Debug\netcoreapp2.2\TopicConsumer.AssemblyInfoInputs.cache
+D:\DOTNETCore\RabbitMQ\TopicConsumer\TopicConsumer\obj\Debug\netcoreapp2.2\TopicConsumer.AssemblyInfo.cs
+D:\DOTNETCore\RabbitMQ\TopicConsumer\TopicConsumer\bin\Debug\netcoreapp2.2\TopicConsumer.pdb
+D:\DOTNETCore\RabbitMQ\TopicConsumer\TopicConsumer\obj\Debug\netcoreapp2.2\TopicConsumer.csprojAssemblyReference.cache
+D:\DOTNETCore\RabbitMQ\TopicConsumer\TopicConsumer\obj\Debug\netcoreapp2.2\TopicConsumer.dll
+D:\DOTNETCore\RabbitMQ\TopicConsumer\TopicConsumer\obj\Debug\netcoreapp2.2\TopicConsumer.pdb

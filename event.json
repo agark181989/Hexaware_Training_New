@@ -1,0 +1,28 @@
+{ 
+   "event":[ 
+      { 
+         "id":1,
+         "title":"Television",
+         "speaker":"boat",
+         "startDate":"01-08-1995",
+         "endDate":"10-08-2020",
+         "location":"Mumbai",
+         "registrationUrl":"https:www.google.com",
+         "organizer":"Google",
+         "startTime":"10:20",
+         "endTime":"18:40"
+      },
+      { 
+         "id":2,
+         "title":"Mobile",
+         "speaker":"boat",
+         "startDate":"01-08-1998",
+         "endDate":"10-08-2024",
+         "location":"Pune",
+         "registrationUrl":"https:www.google.com",
+         "organizer":"Google",
+         "startTime":"10:20",
+         "endTime":"18:40"
+      }
+   ]
+}

@@ -1,0 +1,14 @@
+D:\DOTNETCore\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.csprojAssemblyReference.cache
+D:\DOTNETCore\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.csproj.CoreCompileInputs.cache
+D:\DOTNETCore\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.RazorAssemblyInfo.cache
+D:\DOTNETCore\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.RazorAssemblyInfo.cs
+D:\DOTNETCore\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.AssemblyInfoInputs.cache
+D:\DOTNETCore\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.AssemblyInfo.cs
+D:\DOTNETCore\MiddlewareDemo\bin\Debug\netcoreapp2.2\MiddlewareDemo.deps.json
+D:\DOTNETCore\MiddlewareDemo\bin\Debug\netcoreapp2.2\MiddlewareDemo.runtimeconfig.json
+D:\DOTNETCore\MiddlewareDemo\bin\Debug\netcoreapp2.2\MiddlewareDemo.runtimeconfig.dev.json
+D:\DOTNETCore\MiddlewareDemo\bin\Debug\netcoreapp2.2\MiddlewareDemo.dll
+D:\DOTNETCore\MiddlewareDemo\bin\Debug\netcoreapp2.2\MiddlewareDemo.pdb
+D:\DOTNETCore\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.RazorTargetAssemblyInfo.cache
+D:\DOTNETCore\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.dll
+D:\DOTNETCore\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.pdb

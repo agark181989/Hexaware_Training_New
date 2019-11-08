@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var employee_service_1 = require("./services/employee.service");
+var product_service_1 = require("./services/product.service");
+var user_service_1 = require("./services/user.service");
+var empsrv = new employee_service_1.EmployeeService();
+var employee = empsrv.getEmployees();
+var prodsrv = new product_service_1.ProductService();
+var product = prodsrv.getProduct();
+var userserv = new user_service_1.UserService();
+var user = userserv.getUsers();

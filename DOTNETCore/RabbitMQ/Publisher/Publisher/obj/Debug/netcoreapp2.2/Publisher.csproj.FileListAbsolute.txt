@@ -1,0 +1,11 @@
+C:\Users\huser\source\repos\Publisher\Publisher\bin\Debug\netcoreapp2.2\Publisher.deps.json
+C:\Users\huser\source\repos\Publisher\Publisher\bin\Debug\netcoreapp2.2\Publisher.runtimeconfig.json
+C:\Users\huser\source\repos\Publisher\Publisher\bin\Debug\netcoreapp2.2\Publisher.runtimeconfig.dev.json
+C:\Users\huser\source\repos\Publisher\Publisher\bin\Debug\netcoreapp2.2\Publisher.dll
+C:\Users\huser\source\repos\Publisher\Publisher\obj\Debug\netcoreapp2.2\Publisher.csprojAssemblyReference.cache
+C:\Users\huser\source\repos\Publisher\Publisher\obj\Debug\netcoreapp2.2\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\huser\source\repos\Publisher\Publisher\obj\Debug\netcoreapp2.2\Publisher.AssemblyInfoInputs.cache
+C:\Users\huser\source\repos\Publisher\Publisher\obj\Debug\netcoreapp2.2\Publisher.AssemblyInfo.cs
+C:\Users\huser\source\repos\Publisher\Publisher\bin\Debug\netcoreapp2.2\Publisher.pdb
+C:\Users\huser\source\repos\Publisher\Publisher\obj\Debug\netcoreapp2.2\Publisher.dll
+C:\Users\huser\source\repos\Publisher\Publisher\obj\Debug\netcoreapp2.2\Publisher.pdb

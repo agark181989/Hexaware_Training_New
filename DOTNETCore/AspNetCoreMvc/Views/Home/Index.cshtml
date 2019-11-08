@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <email address="agarwal.rohit993@gmail.com"/>
+    <image Url="../Images/redmi7.jpg" Fallback_Url="../Images/redmi7.jpg"/>
+    @ViewBag.LodingTime
+
+    @foreach(var item in ViewBag.Users)
+    {        
+        <p>@item.Key -- @item.Value</p>
+    }
+    @ViewBag.Source
+</div>
